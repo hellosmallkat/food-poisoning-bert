@@ -156,15 +156,7 @@ Hugging Face Space automatically syncs with the GitHub repository
 GitHub Pages
 The index.html file provides a custom landing page that embeds the Hugging Face Space:
 
-html
-<iframe src="https://kat4everokay-food-poisoning-bert.hf.space"></iframe>
-To update the GitHub Pages site:
-
-Enable GitHub Pages in repository Settings → Pages
-
-Set source to "Deploy from branch" → main branch
-
-📊 Data Sources
+Data Sources
 CDC Foodborne Disease Outbreak Surveillance System (1998-2024)
 
 FoodNet (Foodborne Diseases Active Surveillance Network)
@@ -196,12 +188,15 @@ Real-time CDC data API integration
 Mobile-responsive design improvements
 
  Contributing
+ 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 License
+
 This project is for educational and public health awareness purposes. Data is derived from public CDC sources.
 
- Acknowledgments
+Acknowledgments
+
 CDC for providing comprehensive outbreak data
 
 Hugging Face for hosting the Space
